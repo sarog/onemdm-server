@@ -134,7 +134,7 @@ GEM
       activerecord
       kaminari-core (= 1.0.0)
     kaminari-core (1.0.0)
-    libv8 (3.16.14.11)
+    libv8 (3.16.14.19)
     loofah (2.0.3)
       nokogiri (>= 1.5.9)
     mail (2.6.3)
